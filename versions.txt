@@ -1,0 +1,14 @@
+
+
+npm 8.19.4
+npm -g install npm@8.19.4
+
+Install Angular 14
+npm install @angular/cli
+npm install -g @angular/cli@14.0.0
+
+Node version
+nvm use 14.17.0
+
+Install con errores
+npm install --legacy-peer-deps
